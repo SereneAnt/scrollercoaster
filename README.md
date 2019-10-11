@@ -1,2 +1,2 @@
-# srollercoaster
-Experiments with virtual scroll in react
+# scrollercoaster
+Experiments with virtual scroll
